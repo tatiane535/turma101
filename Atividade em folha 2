@@ -1,0 +1,6 @@
+estudante=input("você é estudante? (s/n):")
+idade=int (input("digite sua idade")
+if estudante=="s"....idade<=12
+....print ("paga meia")
+else:
+....print ("paga inteira")
