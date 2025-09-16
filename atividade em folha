@@ -1,0 +1,6 @@
+idade=int (input ("digite sua idade"))
+atestado=input ("você tem atestado? (s/n)")
+if idade >=18....atestado == "s":
+....print ("pode se inscrever no clube")
+else:
+....print ("não pode se inscrever") 
